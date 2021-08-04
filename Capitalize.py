@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-# Complete the solve function below.
+# Complete the solve function below
 def solve(s):
     x=""
     l1=s.split(" ")
@@ -25,3 +25,4 @@ if __name__ == '__main__':
     fptr.write(result + '\n')
 
     fptr.close()
+  
