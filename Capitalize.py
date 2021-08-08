@@ -13,7 +13,7 @@ def solve(s):
     for i in l1:
         x += i.capitalize()
         x+= " "
-    return x
+    return x 
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
@@ -25,4 +25,4 @@ if __name__ == '__main__':
     fptr.write(result + '\n')
 
     fptr.close()
-  
+    
