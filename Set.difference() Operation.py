@@ -6,3 +6,4 @@ N=set(map(int,input().split()))
 
 ls=M.difference(N)
 print(len(ls))
+
