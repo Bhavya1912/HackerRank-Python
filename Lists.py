@@ -28,9 +28,3 @@ if __name__ == '__main__':
         elif cmd[0]=="reverse":
             li.reverse()
 
-            
-            
-            
-            
-
-            
